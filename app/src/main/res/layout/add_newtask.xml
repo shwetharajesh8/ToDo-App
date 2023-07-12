@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/edittext"
         android:layout_marginTop="15dp"
-        android:hint="Enter Deadline"
+        android:hint="Enter Deadline (DD/MM/YYYY)"
         android:inputType="date" />
 
     <Button
